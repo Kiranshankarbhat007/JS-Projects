@@ -1,1 +1,1 @@
-# JS-ReactJS-Projects
+# JS-Projects
